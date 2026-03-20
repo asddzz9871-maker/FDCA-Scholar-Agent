@@ -22,7 +22,7 @@ DB_PATH = "faiss_index"
 LEDGER_FILE = "processed_papers.txt"
 
 llm = ChatOpenAI(
-    api_key="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",
+    api_key="your-api",
     base_url="https://openrouter.ai/api/v1",
     model="openai/gpt-4o-mini",
     temperature=0.1
