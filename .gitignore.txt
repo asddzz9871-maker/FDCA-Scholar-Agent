@@ -1,0 +1,11 @@
+# 虚拟环境
+rag_env/
+venv/
+
+# 数据库和私人文献
+faiss_index/
+*.pdf
+
+# 缓存和系统文件
+__pycache__/
+.DS_Store
